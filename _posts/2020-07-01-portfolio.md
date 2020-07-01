@@ -1,7 +1,8 @@
 ---
-title: "이윤수 portfolio"
+title: "README"
 date: 2020-07-01 
 ---
 
-README
+이름 : 이윤수
+생년월일 1995.03.25
 
